@@ -1,0 +1,8 @@
+# Specify filepatterns you want git to ignore.
+
+._*
+.DS_Store
+.idea
+*.exe
+y.output
+cmd/test
